@@ -8,8 +8,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/phizzii/unity">
-    <img src="https://github.com/phizzii/unity/blob/main/Screenshot%202025-11-21%20at%2014.56.17.png" alt="Logo" width="600" height="400">
+  <a href="https://github.com/phizzii/unity-obstacle-dodge">
+    <img src="https://github.com/phizzii/unity-obstacle-dodge/blob/main/Screenshot%202025-11-21%20at%2014.56.17.png" alt="Logo" width="600" height="400">
   </a>
 
 <h3 align="center">Unity Obstacle Dodge</h3>
@@ -17,14 +17,14 @@
   <p align="center">
     Portfolio for my Unity upskilling in both 2D and 3D game development and design. First game: Obstacle Dodge
     <br />
-    <a href="https://github.com/phizzii/unity"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/phizzii/unity-obstacle-dodge"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/phizzii/unity">View Demo</a>
+    <a href="https://github.com/phizzii/unity-obstacle-dodge">View Demo</a>
     &middot;
-    <a href="https://github.com/phizzii/unity/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/phizzii/unity-obstacle-dodge/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/phizzii/unity/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/phizzii/unity-obstacle-dodge/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -69,14 +69,14 @@ This repo in particular will be a simple 'obstacle dodge' game in 3D where the p
 - [ ] Getting objects to fly at player
 - [ ] Destroying objects
 
-See the [open issues](https://github.com/phizzii/unity/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/phizzii/unity-obstacle-dodge/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
-No license just learning!
+MIT license for learning :)!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,7 +85,7 @@ No license just learning!
 
 Sophie - [@VolarPhizzie](https://x.com/VolarPhizzie)
 
-Project Link: [https://github.com/phizzii/unity](https://github.com/phizzii/unity)
+Project Link: [https://github.com/phizzii/unity](https://github.com/phizzii/unity-obstacle-dodge)
 
 LinkedIn: [Add me here!!](https://www.linkedin.com/in/sophie-botten-82a91227a/)
 
@@ -104,10 +104,10 @@ LinkedIn: [Add me here!!](https://www.linkedin.com/in/sophie-botten-82a91227a/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/phizzii/unity.svg?style=for-the-badge
-[issues-url]: https://github.com/phizzii/unity/issues
-[license-shield]: https://img.shields.io/github/license/phizzii/unity.svg?style=for-the-badge
-[license-url]: https://github.com/phizzii/unity/blob/master/LICENSE.txt
+[issues-shield]: https://img.shields.io/github/issues/phizzii/unity-obstacle-dodge.svg?style=for-the-badge
+[issues-url]: https://github.com/phizzii/unity-obstacle-dodge/issues
+[license-shield]: https://img.shields.io/github/license/phizzii/unity-obstacle-dodge.svg?style=for-the-badge
+[license-url]: https://github.com/phizzii/unity-obstacle-dodge/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sophie-botten-82a91227a/
 [product-screenshot]: main/Screenshot%202025-11-21%20at%2014.56.17.png
